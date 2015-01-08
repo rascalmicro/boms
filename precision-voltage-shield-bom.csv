@@ -1,0 +1,11 @@
+Designator,Value,Description,Dist,Dist Part Number,In box?
+"C1, C2, C3, C4",100 nF,capacitor,Digikey,490-1775-1-ND,Yes
+"C5, C6",1 uF,capacitor,Digikey,490-1832-1-ND,Yes
+"C7, C8",10 uF,capacitor,Digikey,445-1593-1-ND,Yes
+"J1, J2",1 x 8,3.5 mm 8 pos terminal block,Digikey,ED2746-ND,No
+J3,2 x 4,0.100” male header pins,Digikey,929647-09-36-ND,No
+J4,1 x 3,0.100” male header pins,Digikey,929647-09-36-ND,No
+"J5, J6, J7",1 x 3,0.100” male header pins,,do not stuff,
+"JA, JB, JC, JD",,Arduino stackable header kit,Adafruit,PRT-10007,Yes
+R1-R7,10k,resistor,Digikey,RMCF1/1010KJRCT-ND,Yes
+U1,8 channel,16-bit AD converter,Digikey,AD7606BSTZ-ND,No
